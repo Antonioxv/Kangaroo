@@ -1,5 +1,5 @@
 Kangaroo is a relation database writen by golang.
-Supported SQL:
+Supported SQL operator:
 * Join
 * Group by
 * Projection
